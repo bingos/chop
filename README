@@ -1,0 +1,15 @@
+chop 
+( and it's nemesis unchop )
+Copyright (C) 1999 BingosNET Produktions Ltd
+Written by Kidney Bingos aka Chris Williams
+<chris@kidney-bingos.demon.co.uk> 
+
+Written because I was learning to program C and it seemed like a good idea at the time.
+
+chop "chops" up file in to specified "chunks".
+
+unchop "unchops" a previously "chopped" up file.
+
+simple.
+
+KVB+ 
